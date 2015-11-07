@@ -2,8 +2,8 @@
 Exercices réalisés comme support de formation FrontEnd
 
 Compétences enseignés :
-• HTML
-• CSS
-• JavaScript
-• jQuery
-• Ajax
+- HTML
+- CSS
+- JavaScript
+- jQuery
+- Ajax
