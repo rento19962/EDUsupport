@@ -10,5 +10,5 @@ Faire une liste avec les données suivantes :
 Déjà fini ?
 - Ajoutez des balises pour mettre les dates en gras et les noms propres en italique
 - Donnez un titre et un sous-titre à la page
-- Placez un lien vers http://goo.gl/eETRRwOuvrir et l'ouvrir dans une nouvelle fenêtre
+- Placez un lien vers http://goo.gl/eETRRw et l'ouvrir dans une nouvelle fenêtre
 - Ajoutez des couleurs
