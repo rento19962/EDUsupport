@@ -4,7 +4,7 @@ La page "Hello World!" est composée des éléments suivants :
 
 - Le titre "Hello World!"
 - Une liste avec 4 pays
-- Une mappemonde en image
+- Une mappemonde en image (https://goo.gl/U7CeEs)
 - Une ligne de texte régulier
 - Un lien à la fin de la page
 
