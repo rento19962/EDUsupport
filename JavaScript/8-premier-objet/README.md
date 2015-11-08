@@ -1,0 +1,12 @@
+#Instructions
+- Créer une page de base HTML
+- Intégrer un fichier Javascript dans la page HTML
+- Créer un objet contenant 4 paramètres :
+-- firstName
+-- lastName
+-- pays
+-- age
+- Ajouter des valeurs aux 4 paramètres (string)
+- Afficher dans la console chacun des paramètres de l'objet (un par un)
+- Modifier le paramètre "pays" de l'objet
+- Afficher dans la console le nouveau paramètre pays de l'objet
