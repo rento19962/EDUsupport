@@ -5,7 +5,7 @@ Faire une liste avec les données suivantes :
 - Années 1980 : Vinton Gray Cerf & Bob Kahn inventent le protocole TCP/IP
 - 1er janvier 1983 : ARPANET adopte le protocole TCP/IP et devient Internet
 - 13 mars 1989 : Sir Timothy Berners-Lee invente le World Wild Web (Web)
-- Octobre : Création du W3C pour normaliser le Web
+- Octobre 1994 : Création du W3C pour normaliser le Web
 
 Déjà fini ?
 - Ajoutez des balises pour mettre les dates en gras et les noms propres en italique
