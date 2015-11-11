@@ -10,7 +10,8 @@ Faire une tableau avec les données suivantes, en plaçant les dates et les desc
 Aide : http://www.w3schools.com/html/html_tables.asp
 
 Déjà fini ?
+- La bordure du tableau doit être de 10 pixels
 - Faites un "Header" pour le tableau
-- La colonnes des dates doit faire un tiers du tableau
-- Ajoutez une troisième colonne au début pour le numéro des lignes
-- Les bords du tableau doivent être de 10 pixels
+- Changer la couleur du texte du header
+- Ajouter une colonne pour numéroter les lignes
+- Les numéros doivent être en gras
