@@ -11,7 +11,6 @@ La page "Hello World!" est composée des éléments suivants :
 Aide : http://www.w3schools.com/html/default.asp
 
 Déjà fini ?
-- Mettez toute la page dans un tableau
 - Ajoutez une class au texte régulier
 - Ajoutez une id sur l'image
 - Changez le lien pour envoyer un email
