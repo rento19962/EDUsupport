@@ -4,7 +4,7 @@
 2) Créer une balise header :
 - Ajouter une balise h1 contenant votre nom
 - Ajouter une balise nav contenant une liste de 3 liens
-- Ajouter une balise aside contenant le dernier Tweet
+- Ajouter un paragraphe Lorem Ipsum
 
 
 3) Créer une balise main :
