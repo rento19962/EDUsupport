@@ -15,6 +15,8 @@
 - Ajouter une photo de profil
 - Ajouter un paragraphe Lorem Ipsum
 
+5) Créer une balise footer contenant la signature de la page
+
 
 Déjà fini ?
 - Donner une couleur aux balise de titres
