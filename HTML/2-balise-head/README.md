@@ -5,5 +5,6 @@
 - Ajouter un titre
 
 Déjà fini ?
+- Commenter le code
 - Ajouter un viewport
 - Ajouter une feuille de style externe
