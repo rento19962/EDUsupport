@@ -20,5 +20,5 @@
 
 Déjà fini ?
 - Donner une couleur aux balise de titres
-- Centrer le contenu du header
+- Ajouter une couleur de fond au header
 - Afficher les liens de la nav sur une seule ligne
