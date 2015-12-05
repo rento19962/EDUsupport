@@ -15,15 +15,15 @@
 
 4) Créer une autre balise section
 
-5bis) Dans la balise section créer une balise article :
+4bis) Dans la balise section créer une balise article :
 - Ajouter une photo de profil
 
 
-5) Créer une autre balise article (dans la même section) :
+4ter) Créer une autre balise article (dans la même section) :
 - Ajouter un paragraphe Lorem Ipsum
 
 
-6) Créer une balise footer contenant la signature de la page
+5) Créer une balise footer contenant la signature de la page
 
 
 Déjà fini ?
