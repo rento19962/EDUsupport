@@ -19,7 +19,7 @@
 
 
 Déjà fini ?
-- Donner une couleur aux balise de titres
+- Donner une couleur aux balise h1 et h2
 - Ajouter une couleur de fond au header
 - Afficher les liens de la nav sur une seule ligne
 - Envoyer un mail avec le lien Contact
