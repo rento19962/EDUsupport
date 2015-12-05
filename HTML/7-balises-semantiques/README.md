@@ -13,9 +13,13 @@
 
 4) Créer une balise section :
 - Ajouter une photo de profil
+
+
+5) Créer une autre balise section :
 - Ajouter un paragraphe Lorem Ipsum
 
-5) Créer une balise footer contenant la signature de la page
+
+6) Créer une balise footer contenant la signature de la page
 
 
 Déjà fini ?
