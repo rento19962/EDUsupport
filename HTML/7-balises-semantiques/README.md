@@ -7,23 +7,23 @@
 - Ajouter un paragraphe Lorem Ipsum
 
 
-3) Créer une balise main :
+3) Créer une balise main
 
-4) Dans la balise main, créer une balise section
+3bis) Dans la balise main, créer une balise section
 - Ajouter une balise h1 contenant une phrase d'accueil
 - Ajouter une balise h2 contenant Lorem ipsum dolor sit amet
 
-5) Créer une autre balise section
+4) Créer une autre balise section
 
 5bis) Dans la balise section créer une balise article :
 - Ajouter une photo de profil
 
 
-6) Créer une autre balise article (dans la même section) :
+5) Créer une autre balise article (dans la même section) :
 - Ajouter un paragraphe Lorem Ipsum
 
 
-7) Créer une balise footer contenant la signature de la page
+6) Créer une balise footer contenant la signature de la page
 
 
 Déjà fini ?
