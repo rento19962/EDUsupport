@@ -8,20 +8,16 @@
 
 		<!-- La balise style permet d'ajouter du style à la page -->
 		<style type="text/css">
-
-			h1{
+			header p, h1{
 				color: #f90;
 			}
-
 			header {
-				background-color: #eee;
+				background-color: #282828;
 				padding: 10px 20px;
 			}
-
 			li {
 				display: inline-block;
 			}
-
 		</style>
 	</head>
 
@@ -36,7 +32,7 @@
 			<nav>
 				<ul>
 					<!-- href="#" permet d'initier un lien -->
-					<li><a href="#">Home</a></li>
+					<li><a href="#" class="active">Home</a></li>
 					<li><a href="#">My Works</a></li>
 
 					<!-- mailto: permet d'envoyer un mail avec un simple lien -->
@@ -44,8 +40,7 @@
 				</ul>
 			</nav>
 
-			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-			tempor incididunt ut labore et dolore magna aliqua.</p>
+			<em>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</em>
 
 		</header>
 
@@ -62,8 +57,8 @@
 			<section>
 
 				<!-- Les articles permettent d'organiser les sections -->
-				<article>
-					<img src="http://www.designbolts.com/wp-content/uploads/2013/07/despicable-me-2-Minion-iPhone-wallpaper-.jpg" width="162" height="200">
+				<article id="picture">
+					<img src="profilPicture.jpg" width="162" height="200">
 				</article>
 
 				<article>
